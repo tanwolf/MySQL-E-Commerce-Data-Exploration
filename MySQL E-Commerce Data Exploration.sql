@@ -6,6 +6,11 @@ HOW TO GET THE SCHEMA OF A DATABASE:
 * MacOS: Cmd + r
 */
 
+
+
+guv9ivuii
+
+
 USE magist;
 -- Getting to know the data
 
